@@ -1,4 +1,12 @@
 # aerolog
- Check out my site: https://industrious-aero-log-fly.base44.app
- <meta name="google-site-verification" content="aXk-s6DfvLj23KdWVbK0qs5Mv0k3O9udijTcNmCfO38" />
+<html>
+  <head>
+    <meta name="google-site-verification" content=<meta name="google-site-verification" content="aXk-s6DfvLj23KdWVbK0qs5Mv0k3O9udijTcNmCfO38" /> />
+    <title>Bridge to My Site</title>
+  </head>
+  <body>
+    <p>Check out my project at <a href="https://industrious-aero-log-fly.base44.app">this link</a>.</p>
+  </body>
+</html>
+/>
 
